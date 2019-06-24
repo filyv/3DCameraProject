@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "/Users/alejandro_neri/Documents/Proyectos/ToF"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#1e4f64",
+			"activityBar.foreground": "#e7e7e7",
+			"activityBar.inactiveForeground": "#e7e7e799",
+			"activityBarBadge.background": "#190713",
+			"activityBarBadge.foreground": "#e7e7e7",
+			"titleBar.activeBackground": "#12303d",
+			"titleBar.inactiveBackground": "#12303d99",
+			"titleBar.activeForeground": "#e7e7e7",
+			"titleBar.inactiveForeground": "#e7e7e799",
+			"statusBar.background": "#12303d",
+			"statusBarItem.hoverBackground": "#1e4f64",
+			"statusBar.foreground": "#e7e7e7"
+		}
+	}
+}
